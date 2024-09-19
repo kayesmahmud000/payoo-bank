@@ -1,5 +1,4 @@
 
-console.log('aj rate khela hobe')
 document.getElementById('btn-login').addEventListener('click',function(event){
     event.preventDefault();
     const phnNumber= document.getElementById('phn-number').value;
